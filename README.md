@@ -8,13 +8,11 @@
 
 <h3> 🧑 I'm a Programmer, Developer and Learner Forever!</h3>
 
-- 🌱 I’m currently learning **Everything🧑🏽‍💻**
-
-- 💬 Ask me about **JavaScript, React, Next.js**
+- 💬 Ask me about **JavaScript, React, Next.js , Node.js**
 
 - 📫 How to reach me **kousal3620@gmail.com**
 
-- ⚡ Fun fact: **I love to play Sports🏏🏐**
+- ⚡ Fun fact: **Sports Enthusiast🏏🏐**
 
 - 📄 Know about my experiences  <a href="https://www.linkedin.com/in/koshal-kumar-609b8b245/"><img src="https://img.shields.io/badge/Koshal%20Kumar-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"
                                                                                                   width="120"/></a>
