@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **kousal3620@gmail.com**
 
-- ⚡ Fun fact: **Sports Enthusiast🏏🏐**
+- ⚡ Fun fact: **Sports Enthusiast🏏🏸**
 
 - 📄 Know about my experiences  <a href="https://www.linkedin.com/in/koshal-kumar-609b8b245/"><img src="https://img.shields.io/badge/Koshal%20Kumar-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"
                                                                                                   width="120"/></a>
