@@ -1,9 +1,7 @@
 
 
-[![MasterHead](https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif)](https://www.github.com/Neel1292) 
 
-
-<h1 align="center"> जय श्री राम 🙏🏻, Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Koshal Kumar </h1>
+<h1 align="center">  Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Koshal Kumar </h1>
 <br>
 <h3 align="center">A DEDICATED WEB DEVELOPER </h3><br/>
 <img width="40%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
